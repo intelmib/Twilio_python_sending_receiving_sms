@@ -1,1 +1,9 @@
 
+1. Check the version of Python your are using
+2. Install Twilio
+3. Create your Twilio account and Buy a sms-enabled twilio phone number
+4. Use send_sms_updated.py and edit it to add your Account SID, Auth Token, Twilio Number ( in from_ number), Your phone Number (validated while creating Twilio account)
+5. Run this script from your terminal (I used Git Bash)
+6. You will receive a message from your twilio number.
+7. We will now craete a web application to send and receive messages. We will use Flask 
+8. Install Flask and virtual env 
