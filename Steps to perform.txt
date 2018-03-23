@@ -6,4 +6,13 @@
 5. Run this script from your terminal (I used Git Bash)
 6. You will receive a message from your twilio number.
 7. We will now craete a web application to send and receive messages. We will use Flask 
-8. Install Flask and virtual env 
+8. Install virtual environment
+9. Create and activate the virtual environment
+10. Now to install Flask, using requirements.txt and run it in virtual environment using pip
+11. Now run run.py and check the result in the web browser
+12. Your web app is ready 
+13. To make your app available on the internet use Ngrok tool. Ngrok provides a unique URL on the ngrok.io domain which forwards incoming requests to your local development environment.
+14. Install and configure Ngrok
+15. Update run.py with the message
+16. Configure webhook URL
+17. Test Test Test!!!!!!
